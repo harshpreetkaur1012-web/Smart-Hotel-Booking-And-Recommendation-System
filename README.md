@@ -20,7 +20,7 @@ The system uses machine learning techniques like cosine similarity to provide pe
 ---
 ## 🛠️ Tech Stack
 
-| Category        | Technology Used |
+| Category        |Technology Used |
 |----------------|----------------|
 | **Language**        | Python 🐍 |
 | **GUI Framework**   | Tkinter |
