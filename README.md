@@ -59,24 +59,35 @@ pip install pandas numpy scikit-learn
 python smart_hotel_booking_ai_full.py
 
 
-## 📸 Screenshots
+## 📷 Screenshots
 
 ### 🏠 Home Screen
-![Home]![alt text](home.png)
 
-### 🔍 Hotel Listings
-![Hotels]![alt text](hotels.png)
+![Home Screen](home.png)
 
-### 🤖 AI Recommendations
-![AI]![alt text](recommendation.png)
+---
 
-### 📘 Booking Confirmation
-![Booking]![alt text](booking.png)
+### 🏨 Hotel List
 
+![Hotel List](hotel_list.png)
 
-5️⃣ ⭐ Review System
-![Review]![alt text](.png)
+---
 
+### 🤖 AI Recommendation
+
+![Recommendation](recommendation.png)
+
+---
+
+### 📘 Booking
+
+![Booking](booking.png)
+
+---
+
+### ⭐ Review
+
+![Review](review.png)
 
 
 💡 Future Enhancements
