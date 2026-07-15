@@ -1,21 +1,17 @@
-<h1 align="center">
-🏨 Smart Hotel Booking & Recommendation System
-</h1>
+<div align="center">
 
-<p align="center">
-An AI-Powered Hotel Recommendation Desktop Application built with Python, Tkinter & Scikit-learn.
-</p>
+# 🏨 Smart Hotel Booking & Recommendation System
 
-<p align="center">
+An AI-Powered Hotel Recommendation Desktop Application built with **Python**, **Tkinter**, and **Scikit-learn**.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-success)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-</p>
+</div>
 
----
+------
 
 # 🌟 Project Highlights
 
@@ -32,13 +28,19 @@ An AI-Powered Hotel Recommendation Desktop Application built with Python, Tkinte
 # 🎥 Project Demonstration
 
 <p align="center">
+
 <a href="https://www.youtube.com/watch?v=gmmRfq1quE0">
-<img src="./assets/demo-thumbnail.png" width="900">
+
+<img src="https://img.youtube.com/vi/gmmRfq1quE0/maxresdefault.jpg" width="90%">
+
 </a>
+
 </p>
 
 <p align="center">
-<b>▶ Click the image above to watch the complete project demonstration</b>
+
+▶️ Click the image above to watch the complete project demonstration.
+
 </p>
 
 ---
@@ -175,19 +177,19 @@ Booking & Reviews
 
 ## 🏠 Home
 
-<img src="./Screenshots/home_page.png" width="100%">
+<img src="Screenshots/home_page.png">
 
 ---
 
 ## 🔎 Hotel Search
 
-<img src="./Screenshots/hotel_list.png" width="100%">
+<img src="Screenshots/hotel_list.png" width="100%">
 
 ---
 
 ## 🤖 Recommendation
 
-<img src="./Screenshots/recommendation.png" width="100%">
+<img src="Screenshots/recommendation.png" width="100%">
 
 ---
 
@@ -199,7 +201,7 @@ Booking & Reviews
 
 ## ⭐ Review System
 
-<img src="./Screenshots/review.png" width="100%">
+<img src="Screenshots/review.png" width="100%">
 
 ---
 
