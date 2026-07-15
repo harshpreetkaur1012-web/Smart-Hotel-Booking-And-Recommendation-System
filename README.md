@@ -1,22 +1,17 @@
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="Smart Hotel Booking Banner">
-</p>
-
-<h1 align="center">🏨 Smart Hotel Booking & Recommendation System</h1>
+<h1 align="center">
+🏨 Smart Hotel Booking & Recommendation System
+</h1>
 
 <p align="center">
-An AI-Powered Desktop Application built with <b>Python</b>, <b>Tkinter</b>, and <b>Scikit-learn</b> that recommends hotels using a Content-Based Recommendation Engine.
+An AI-Powered Hotel Recommendation Desktop Application built with Python, Tkinter & Scikit-learn.
 </p>
 
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-success)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-black)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
-![SQLite](https://img.shields.io/badge/Storage-CSV-green)
-![License](https://img.shields.io/badge/License-MIT-success)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 </p>
 
@@ -34,11 +29,17 @@ An AI-Powered Desktop Application built with <b>Python</b>, <b>Tkinter</b>, and 
 
 ---
 
-# 🎥 Project Demo
+# 🎥 Project Demonstration
 
-Watch the complete walkthrough:
+<p align="center">
+<a href="https://www.youtube.com/watch?v=gmmRfq1quE0">
+<img src="./assets/demo-thumbnail.png" width="900">
+</a>
+</p>
 
-**▶️ YouTube:** https://www.youtube.com/watch?v=gmmRfq1quE0
+<p align="center">
+<b>▶ Click the image above to watch the complete project demonstration</b>
+</p>
 
 ---
 
@@ -65,6 +66,48 @@ This project demonstrates practical applications of Machine Learning, Python GUI
 
 ---
 
+# 🔄 Application Workflow
+
+```text
+                 START
+                   │
+                   ▼
+        Launch Desktop Application
+                   │
+                   ▼
+Enter Name • City • Preferred Facilities
+                   │
+                   ▼
+          Search Available Hotels
+                   │
+                   ▼
+     Recommendation Engine (ML Model)
+                   │
+      Content-Based Filtering
+                   │
+     MultiLabelBinarizer Encoding
+                   │
+       Cosine Similarity Matching
+                   │
+                   ▼
+       Display Best Matching Hotels
+                   │
+        User Selects a Hotel
+                   │
+                   ▼
+           Confirm Booking
+                   │
+         Save Booking to CSV
+                   │
+                   ▼
+        Submit Rating & Review
+                   │
+      Dynamic Rating Update
+                   │
+                   ▼
+                 END
+```
+
 # 🤖 Machine Learning Pipeline
 
 ```text
@@ -89,6 +132,7 @@ Top Matching Hotels
 Booking & Reviews
 ```
 
+
 **Algorithms & Libraries**
 
 - Content-Based Filtering
@@ -108,6 +152,21 @@ Booking & Reviews
 | GUI | Tkinter |
 | Machine Learning | Scikit-learn |
 | Data Processing | Pandas, NumPy |
+| Storage | CSV |
+
+---
+
+# 📊 Project Statistics
+
+| Category | Details |
+|-----------|---------|
+| Project Type | Desktop Application |
+| Domain | Travel & Hospitality |
+| Recommendation System | Content-Based Filtering |
+| Language | Python |
+| GUI Framework | Tkinter |
+| ML Library | Scikit-learn |
+| Data Processing | Pandas & NumPy |
 | Storage | CSV |
 
 ---
@@ -238,8 +297,6 @@ This project is licensed under the MIT License.
 
 # ⭐ Support
 
-If you found this project useful, please consider giving it a **⭐ Star** on GitHub.
+If you found this project useful, please consider giving it a ⭐ Star.
 
-If you have feedback or ideas for improvement, feel free to open an issue or connect with me on LinkedIn.
-
-Happy Coding! 🚀
+For feedback or suggestions, feel free to open an issue or connect with me on LinkedIn.
