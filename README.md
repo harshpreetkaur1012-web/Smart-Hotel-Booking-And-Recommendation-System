@@ -115,19 +115,32 @@ Booking & Reviews
 # 📸 Screenshots
 
 ## 🏠 Home
-<img src="Screenshots/home_page.png" width="100%">
 
-## 🔍 Hotel Search
-<img src="Screenshots/hotel_list.png" width="100%">
+<img src="./Screenshots/home_page.png" width="100%">
+
+---
+
+## 🔎 Hotel Search
+
+<img src="./Screenshots/hotel_list.png" width="100%">
+
+---
 
 ## 🤖 Recommendation
-<img src="Screenshots/recommendation.png" width="100%">
+
+<img src="./Screenshots/recommendation.png" width="100%">
+
+---
 
 ## ✅ Booking Confirmation
-<img src="Screenshots/booking_confirmed.png" width="100%">
+
+<img src="./Screenshots/booking_confirmed.png" width="100%">
+
+---
 
 ## ⭐ Review System
-<img src="Screenshots/review.png" width="100%">
+
+<img src="./Screenshots/review.png" width="100%">
 
 ---
 
